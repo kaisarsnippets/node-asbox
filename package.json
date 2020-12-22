@@ -1,7 +1,7 @@
 {
   "name": "asbox",
   "version": "1.0.7",
-  "description": "Secure async code evaluation [NodeJS]",
+  "description": "[nodejs] Secure async code evaluation",
   "main": "index.js",
   "repository": {
     "type": "git",

@@ -1,5 +1,5 @@
-# ASbox [NodeJS]
-Secure async code evaluation
+# ASbox
+[nodejs] Secure async code evaluation
 
 ### Install
 ```
