@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/node-asbox.git"
+    "url": "https://github.com/kaisarsnippets/node-asbox.git"
   },
   "keywords": [
     "secure",
@@ -16,7 +16,7 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/node-asbox/issues"
+    "url": "https://github.com/kaisarsnippets/node-asbox/issues"
   },
-  "homepage": "https://github.com/KaisarCode/node-asbox"
+  "homepage": "https://github.com/kaisarsnippets/node-asbox"
 }
